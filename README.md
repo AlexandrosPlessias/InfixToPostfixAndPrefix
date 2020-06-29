@@ -6,4 +6,4 @@ Infix notation to Postfix &amp; Prefix - Binary Trees:
 4) Output format use parentheses with singed number and operators, e.g. (+5) (-7) (*).\n");
 All other formats are not supported and appear respectively error messages as the case.\n\n");
 
-Chech pdf's screens.
+Check pdf's screens.
