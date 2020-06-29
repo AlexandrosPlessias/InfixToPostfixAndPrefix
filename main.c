@@ -1,8 +1,3 @@
-/* Alexandros Plessias
-   AM: 2025201100068
-   cst11068@uop.gr
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
